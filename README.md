@@ -18,6 +18,7 @@ In this project, our design team has already built an HTML/CSS web page for us, 
 * [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 * [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 * [ ] Push commits: git push origin `<firstName-lastName>`.
+* [ ] Small mod in README - initial commit.
 
 **Follow these steps for completing your project.**
 
